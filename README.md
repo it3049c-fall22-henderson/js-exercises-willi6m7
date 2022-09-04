@@ -1,6 +1,6 @@
 JS Exercise
 ===================================
-![Assignment Checks](https://github.com/IT3049C/2.JS-Exercise/workflows/Assignment%20Checks/badge.svg)
+[![GitHub Classroom Workflow](https://s///github.com/it3049c-fall22-henderson/js-exercises-willi6m7/actions/workflows/classroom.yml/badge.svg)](https://s///github.com/it3049c-fall22-henderson/js-exercises-willi6m7/actions/workflows/classroom.yml)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/2.JavaScript_Exercises/).
 
